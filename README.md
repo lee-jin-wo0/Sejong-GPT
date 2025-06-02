@@ -16,7 +16,7 @@
 ---
 
 ## 📁 폴더 구조
-SEJONG-GPT/
+```SEJONG-GPT/
 │
 ├── app.py # Streamlit 웹앱 메인 파일
 ├── embed_and_save.py # 텍스트 → 임베딩 + 인덱스 생성
@@ -27,7 +27,7 @@ SEJONG-GPT/
 │ ├── sejong_index.pkl # 생성된 FAISS 인덱스
 │ └── sejong_emb.pkl # 텍스트 임베딩 저장
 └── README.md
-
+```
 ---
 
 ## 🛠️ 설치 및 실행 방법
